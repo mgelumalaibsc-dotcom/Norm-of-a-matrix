@@ -45,9 +45,9 @@ print(Norm_of_matrix)
 
 ```
 ## Output:
-### 1-Norm of a Matrix
+``` 1-Norm of a Matrix
 <img width="1196" height="215" alt="image" src="https://github.com/user-attachments/assets/1fdb61f2-328b-4b40-8e4a-c876ef91c14c" />
-
+```
 
 ### 2-Norm of a Matrix
 <img width="1196" height="263" alt="image" src="https://github.com/user-attachments/assets/1662a630-4df5-4ae6-892d-191e1a84dab3" />
